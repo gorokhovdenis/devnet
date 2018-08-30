@@ -131,8 +131,8 @@ def whois():
 
 	
 #enter
-user = 'tech'
-password = 'support'
+user = 'user'
+password = 'password'
 f1=open('/home/goroshik/tmp/adr.txt', 'r')
 s=f1.readlines()
 a=0
